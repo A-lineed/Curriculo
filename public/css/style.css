@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+img {
+    position: relative;
+    border-radius: 50%;
+    margin: 0 10vh;
+    margin-top: 4vw;
+}
+
+ul { list-style: none; }
+
+h1 {
+    font-weight: bolder;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover { text-decoration: underline; color: #fff; }
+
+dt {margin-left: 4%;}
+dd {margin-left: 6%;}
